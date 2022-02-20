@@ -1,0 +1,17 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "ls command in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunil Chauhan",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
